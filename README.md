@@ -1,3 +1,21 @@
+# Python Course Projects – Angela Yu’s Udemy Bootcamp
+
+A collection of key Python projects completed as part of **Angela Yu’s 100 Days of Code: The Complete Python Pro Bootcamp**. These projects demonstrate fundamentals, problem-solving, and hands-on application development.
+
+## Key Projects
+- **Band Name Generator** – Generates creative band names from user input.  
+- **Tip Calculator** – Splits bills and calculates tips per person.  
+- **Treasure Island** – Text-based adventure game with multiple choices.  
+- **Password Generator** – Creates strong random passwords.  
+- **Quiz App** – Console-based quiz game tracking user score.  
+- **Coffee Machine Simulator** – Handles orders, resources, and payments.  
+- **Snake Game** – Classic game using Python’s Turtle module.  
+
+## Skills Learned
+- Python fundamentals: variables, loops, conditionals, functions, and modules  
+- Problem-solving and logical thinking  
+- String manipulation, lists, dictionaries, and basic game/app development  
+- Project structuring and code optimization
 100 Days of Code: The Complete Python Pro Bootcamp by Dr. Angela Yu, the key projects typically include:
 
 Day 1: Band Name Generator
